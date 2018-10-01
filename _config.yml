@@ -1,0 +1,7 @@
+safe: true
+title: "Introduction to Programming in Java I – CSE 8A F18"
+source: .
+destination: _site
+lsi: false
+url: "https://ucsd-cse8a-f18.github.io/"
+:pygments: true
