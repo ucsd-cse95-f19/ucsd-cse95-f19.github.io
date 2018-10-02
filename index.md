@@ -41,7 +41,7 @@ Jacalyn Li
 
 Email: jal383@ucsd.edu
 
-Yimeng Yangabcd
+Yimeng Yang
 
 Email: yiy170@ucsd.edu
 
