@@ -45,3 +45,5 @@ Yimeng Yang
 
 Email: yiy170@ucsd.edu
 
+# Schedule
+ <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSzcbMtdGIdQ_FFq2vIGP2czId9MouBnDMgqzqNfHR6IVyaNJ_Dq9-d06UXTXgxdakOaYuHfkjwlC-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
