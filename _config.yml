@@ -1,7 +1,7 @@
 safe: true
-title: "Introduction to Programming in Java I – CSE 8A F18"
+title: "Tutor Apprenticeship – CSE 95 F18"
 source: .
 destination: _site
 lsi: false
-url: "https://ucsd-cse8a-f18.github.io/"
+url: "https://ucsd-cse95-f18.github.io/"
 :pygments: true
