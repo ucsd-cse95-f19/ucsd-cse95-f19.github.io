@@ -31,3 +31,7 @@ Email: jal383@ucsd.edu
 Yimeng Yang
 
 Email: yiy170@ucsd.edu
+
+# Schedule
+
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBt6J84DZl8HwRnBlJfJ-cAW3Vi7VjI5A3X6enkdNRcDclCotOutJim--MJZj_zr9wpyLmGqXy_51t/pubhtml?gid=30684399&single=true&widget=false&chrome=false&range=A:E" width="100%" height="800px"></iframe>
