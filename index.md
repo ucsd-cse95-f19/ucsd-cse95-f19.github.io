@@ -14,7 +14,7 @@ Welcome to CSE 95: Tutor Apprentice. This course is intended to help you become 
 
 * Piazza (Coming Soon) 
 
-* Schedule & Assignments 
+* <a href="#schedule">Schedule & Assignments </a>
 
 * <a href="https://docs.google.com/document/d/1rr2DWuIQGMMWDEW9rLdENfDaRJhu5dYQm1erzgzO5_o/edit?usp=sharing">Expectations of a CSE Tutor</a> (from Prof. Christine Alvarado)
 
@@ -46,8 +46,10 @@ Yimeng Yang
 Email: yiy170@ucsd.edu
 
 # Syllabus
+
 <a id="syllabus"></a>
 Coming Soon!
 
 # Schedule
+<a id="schedule"></a>
  <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSzcbMtdGIdQ_FFq2vIGP2czId9MouBnDMgqzqNfHR6IVyaNJ_Dq9-d06UXTXgxdakOaYuHfkjwlC-/pubhtml?gid=0&single=true&widget=false&chrome=false&range=A:D" width="100%" height="800px"></iframe>
