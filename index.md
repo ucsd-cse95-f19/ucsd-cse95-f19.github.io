@@ -10,9 +10,9 @@ Welcome to CSE 95: Tutor Apprentice. This course is intended to help you become 
 # Resources
 * <a href="#staff">Staff</a> 
 
-* Syllabus  
+* <a href="#syllabus">Syllabus</a>  
 
-* Piazza 
+* Piazza (Coming Soon) 
 
 * Schedule & Assignments 
 
@@ -44,6 +44,10 @@ Email: jal383@ucsd.edu
 Yimeng Yang
 
 Email: yiy170@ucsd.edu
+
+# Syllabus
+<a id="syllabus"></a>
+Coming Soon!
 
 # Schedule
  <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSzcbMtdGIdQ_FFq2vIGP2czId9MouBnDMgqzqNfHR6IVyaNJ_Dq9-d06UXTXgxdakOaYuHfkjwlC-/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
