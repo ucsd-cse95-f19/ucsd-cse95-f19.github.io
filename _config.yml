@@ -5,5 +5,3 @@ destination: _site
 lsi: false
 url: "https://ucsd-cse8a-f18.github.io/"
 :pygments: true
-
-theme: jekyll-theme-cayman
