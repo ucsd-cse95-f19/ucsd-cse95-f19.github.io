@@ -2,6 +2,9 @@
 layout: page
 title: "CSE95 Fall 2018: Tutor Apprenticeship"
 ---
+<p>
+<p>
+<p>
 # CSE 95: Tutor Apprenticeship
 Wednesdays 1:00pm - 1:50pm CSE 1202
 
