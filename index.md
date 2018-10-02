@@ -23,13 +23,13 @@ Welcome to CSE 95: Tutor Apprentice. This course is intended to help you become 
 
 <h3>Instructor</h3>
 
-Joe Politz
+<a href="https://jpolitz.github.io" target="_blank">Joe Politz</a>
 
-Email: TODO
+Email: jpolitz@eng.ucsd.edu
 
-Office: TODO
+Office: CSE 3206
 
-Office Hours: TODO
+Office Hours: Tuesday 10-11am
 
 <h3>Tutors</h3>
 
