@@ -9,6 +9,7 @@ Welcome to CSE 95: Tutor Apprentice. This course is intended to help you become 
 
 # Staff
 <h3>Instructor</h3>
+
 Joe Politz
 
 Email: TODO
@@ -18,6 +19,7 @@ Office: TODO
 Office Hours: TODO
 
 <h3>Tutors</h3>
+
 Nidhi Bangari
 
 Email: nbangari@ucsd.edu
