@@ -16,7 +16,7 @@ Welcome to CSE 95: Tutor Apprentice. This course is intended to help you become 
 
 * <a href="#schedule">Schedule & Assignments </a>
 
-* <a href="https://docs.google.com/document/d/1rr2DWuIQGMMWDEW9rLdENfDaRJhu5dYQm1erzgzO5_o/edit?usp=sharing">Expectations of a CSE Tutor</a> (from Prof. Christine Alvarado)
+* <a href="https://docs.google.com/document/d/1VOfAnAnDDdhAG5-MckOa9IUJTWhdrWjbzpLN5PfgIXo/edit?usp=sharing">Expectations of a CSE Tutor</a> (from Prof. Christine Alvarado)
 
 # Staff
 <a id="staff"></a>
