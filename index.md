@@ -13,7 +13,7 @@ Welcome to CSE 95: Tutor Apprentice. This course is intended to help you become 
 
 * <a href="#syllabus">Syllabus</a>  
 
-* Piazza (Coming Soon) 
+* <a href="https://piazza.com/class/jmr8ofrue7ssa"> Piazza (Coming Soon) </a>
 
 * <a href="#schedule">Schedule & Assignments </a>
 
