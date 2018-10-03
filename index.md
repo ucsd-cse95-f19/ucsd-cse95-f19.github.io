@@ -58,15 +58,15 @@ complete their training. You will receive 2 credit hours that may
 count towards lower division CSE electives. Here are the expectations
 of all new CSE tutors.
 
-In CSE95, you will learn and practice skills related to assisting
+In CSE 95, you will learn and practice skills related to assisting
 with CSE courses as a tutor. This includes student-facing tasks like
 presenting content, helping in office hours, and creating tutorials
 or assignment writeups, as well as behind-the-scenes activities like
 grading and academic integrity processes.
 
-For CSE95, you will be expected to:
+For CSE 95, you will be expected to:
 
-- Attend CS95 class sections and participate in discussions and
+- Attend CSE 95 class sections and participate in in-class discussions and
   activities.
 - Attend the lectures of the course you are tutoring for, along with
   its staff meeting.
