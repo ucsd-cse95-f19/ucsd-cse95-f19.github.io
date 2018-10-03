@@ -47,7 +47,7 @@ Email: yiy170@ucsd.edu
 
 # Schedule
 <a id="schedule"></a>
- <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSzcbMtdGIdQ_FFq2vIGP2czId9MouBnDMgqzqNfHR6IVyaNJ_Dq9-d06UXTXgxdakOaYuHfkjwlC-/pubhtml?gid=0&single=true&widget=false&chrome=false&range=A:D" width="100%" height="50px"></iframe>
+ <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSzcbMtdGIdQ_FFq2vIGP2czId9MouBnDMgqzqNfHR6IVyaNJ_Dq9-d06UXTXgxdakOaYuHfkjwlC-/pubhtml?gid=0&single=true&widget=false&chrome=false&range=A:D" width="100%" height="150px"></iframe>
 
 # Syllabus
 
