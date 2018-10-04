@@ -126,7 +126,7 @@ you will be graded on:
 
     2. Attending lectures for the class that you tutor for.
 
-        - You should attend all the lectures that you tutor for this entire quarter and pay attend in what is covered in class and help with various tasks during lectures.
+        - You should attend all the lectures that you tutor for this entire quarter and attention to what is covered in class and help with various tasks during lectures.
         - We will designate record keepers for each CSE course that has hired new tutors. The record keeper will keep track of lecture attendance of new tutors and the instructor of the course will sign off the attendance sheet on a weekly basis.
         - Record any and all special occasions for the attendance (i.e. put "N/A" if there is no staff meeting/lecture that week, put "Midterm" if the lecture was in-class exam), and highlight the cells for which the tutors are absent for.
 
