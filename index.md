@@ -112,27 +112,28 @@ you will be graded on:
 
 2. Participation
 
-There are two components to the participation category which you will be graded on:
+    There are two components to the participation category which you will be graded on:
 
-1. Each week's in-class participation will be graded based on the following scale
+    1. Each week's in-class participation will be graded based on the following scale
 
-    - 2: be present and on time in the CSE 95 section where you are enrolled.
-    - 1: late for class
-    - 0: absent
+        - 2: be present and on time in the CSE 95 section where you are enrolled.
+        - 1: late for class
+        - 0: absent
 
-    If you miss more than 2 points in in-class participation (i.e. miss more than
-    one class or be late for more than 2 classes), you will fail this class.
-    Imminent failure of CSE 95 will put your employment in jeopardy.
+        If you miss more than 2 points in in-class participation (i.e. miss more than
+        one class or be late for more than 2 classes), you will fail this class.
+        Imminent failure of CSE 95 will put your employment in jeopardy.
 
-2. Attending lectures for the class that you tutor for.
+    2. Attending lectures for the class that you tutor for.
 
-    - You should attend all the lectures that you tutor for this entire quarter and pay attend in what is covered in class and help with various tasks during lectures.
-    - We will designate record keepers for each CSE course that has hired new tutors. The record keeper will keep track of lecture attendance of new tutors and the instructor of the course will sign off the attendance sheet on a weekly basis.
-    - Record any and all special occasions for the attendance (i.e. put "N/A" if there is no staff meeting/lecture that week, put "Midterm" if the lecture was in-class exam), and highlight the cells for which the tutors are absent for.
+        - You should attend all the lectures that you tutor for this entire quarter and pay attend in what is covered in class and help with various tasks during lectures.
+        - We will designate record keepers for each CSE course that has hired new tutors. The record keeper will keep track of lecture attendance of new tutors and the instructor of the course will sign off the attendance sheet on a weekly basis.
+        - Record any and all special occasions for the attendance (i.e. put "N/A" if there is no staff meeting/lecture that week, put "Midterm" if the lecture was in-class exam), and highlight the cells for which the tutors are absent for.
 
-If you miss more than 10% of the lectures that you should attend, you will fail this class.
+    If you miss more than 10% of the lectures that you should attend, you will fail this class.
 
-Diversity and Inclusion
+## Diversity and Inclusion
+
 We are committed to fostering a learning environment for this course that supports a diversity of thoughts, perspectives and experiences, and respects your identities (including race, ethnicity, heritage, gender, sex, class, sexuality, religion, ability, age, educational background, etc.).  Our goal is to create a diverse and inclusive learning environment where all students feel comfortable and can thrive.
 
 Our instructional staff will make a concerted effort to be welcoming and inclusive to the wide diversity of students in this course.  If there is a way we can make you feel more included please let one of the course staff know, either in person, via email/discussion board, or even in a note under the door.  Our learning about diverse perspectives and identities is an ongoing process, and we welcome your perspectives and input.
