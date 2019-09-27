@@ -23,31 +23,21 @@ Welcome to CSE 95: Tutor Training. This course is intended to help you become a 
 
 <h3>Instructor</h3>
 
-<a href="https://jpolitz.github.io" target="_blank">Joe Politz</a>
-
-Email: jpolitz@eng.ucsd.edu
+<a href="https://jpolitz.github.io" target="_blank">Joe Politz</a> (jpolitz@eng.ucsd.edu)
 
 Office: CSE 3206
 
-Office Hours: Tuesday 10-11am
-
 <h3>Tutors</h3>
 
-Nidhi Bangari
+Cheery Wang (qiw131@ucsd.edu)
 
-Email: nbangari@ucsd.edu
+Catherine Xia (f3xia@ucsd.edu)
 
-Jacalyn Li
-
-Email: jal383@ucsd.edu
-
-Yimeng Yang
-
-Email: yiy170@ucsd.edu
+Allston Fojas (amfojas@ucsd.edu)
 
 # Schedule
 <a id="schedule"></a>
- <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSzcbMtdGIdQ_FFq2vIGP2czId9MouBnDMgqzqNfHR6IVyaNJ_Dq9-d06UXTXgxdakOaYuHfkjwlC-/pubhtml?gid=0&single=true&widget=false&chrome=false&range=A:D" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2o-Xv3eMJr0OR2j_32RlTtBTdgjeJgGzVXakNS9unC3V-xth8NwgTo12mRRaD-Eogv3wXm8q9Jivh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # Syllabus
 
