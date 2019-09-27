@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CSE 95 Fall 2018: Tutor Training"
+title: "CSE 95 Fall 2019: Tutor Training"
 ---
 # CSE 95: Tutor Training
 Wednesdays 1:00pm - 1:50pm CSE 1202
@@ -65,10 +65,8 @@ For CSE 95, you will be expected to:
 In addition, we will be relying on your on-the-ground experience as a
 tutor this quarter. As part of the CSE 95 class, you need to
 
-- Attend class each week – Failure to attend at least 8 of 10 course
-  meetings regardless of reason will result in failure to pass the
-  course.
-- Actively participate in class and in online discussion.
+- Attend class each week
+- Actively participate in class and out-of-class work
 
 ## What You Will Learn
 
