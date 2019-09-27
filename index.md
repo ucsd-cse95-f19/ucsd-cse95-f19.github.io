@@ -37,7 +37,8 @@ Allston Fojas (amfojas@ucsd.edu)
 
 # Schedule
 <a id="schedule"></a>
-<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="500px"t src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2o-Xv3eMJr0OR2j_32RlTtBTdgjeJgGzVXakNS9unC3V-xth8NwgTo12mRRaD-Eogv3wXm8q9Jivh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px" width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2o-Xv3eMJr0OR2j_32RlTtBTdgjeJgGzVXakNS9unC3V-xth8NwgTo12mRRaD-Eogv3wXm8q9Jivh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 # Syllabus
 
