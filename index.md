@@ -45,8 +45,7 @@ Allston Fojas (amfojas@ucsd.edu)
 
 This course is part of the requirement for all new CSE tutors to
 complete their training. You will receive 2 credit hours that may
-count towards lower division CSE electives. Here are the expectations
-of all new CSE tutors.
+count towards lower division CSE electives.
 
 In CSE 95, you will learn and practice skills related to assisting
 with CSE courses as a tutor. This includes student-facing tasks like
