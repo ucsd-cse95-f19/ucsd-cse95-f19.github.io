@@ -126,6 +126,7 @@ you will be graded on:
           if the lecture was in-class exam), and highlight the cells for which
           the tutors are absent for.
           
+          
     3. Attendance FAQs:
        - What if I am sick?
          A: Stay home and get better.  Write "sick" instead of signing your name
