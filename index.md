@@ -128,11 +128,12 @@ you will be graded on:
           
     3. Attendance FAQs:
        - What if I am sick?
-          Stay home and get better.  Write "sick" instead of signing your name
+         A: Stay home and get better.  Write "sick" instead of signing your name
        - What if I have to miss class for some other reason?
-          You must get permission from your instructor in advance. You must substitute this missed work with some other work (for credit, not pay)
+         A: You must get permission from your instructor in advance. You must substitute this missed work with some other work (for credit, not pay)
        - What if a class/staff meeting is cancelled?
-           Write "cancelled".  You do not need to make up this hour.
+         A: Write "cancelled".  You do not need to make up this hour.
+
 
     If you miss more than 10% of the lectures that you should attend, you
     cannot pass CSE95.
