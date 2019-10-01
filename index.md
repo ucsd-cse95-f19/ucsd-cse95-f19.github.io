@@ -125,6 +125,14 @@ you will be graded on:
           "N/A" if there is no staff meeting/lecture that week, put "Midterm"
           if the lecture was in-class exam), and highlight the cells for which
           the tutors are absent for.
+          
+    3. Attendance FAQs:
+       - What if I am sick?
+          Stay home and get better.  Write "sick" instead of signing your name
+       - What if I have to miss class for some other reason?
+          You must get permission from your instructor in advance. You must substitute this missed work with some other work (for credit, not pay)
+       - What if a class/staff meeting is cancelled?
+           Write "cancelled".  You do not need to make up this hour.
 
     If you miss more than 10% of the lectures that you should attend, you
     cannot pass CSE95.
