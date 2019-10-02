@@ -3,7 +3,8 @@ layout: page
 title: "CSE 95 Fall 2019: Tutor Training"
 ---
 # CSE 95: Tutor Training
-Wednesdays 1:00pm - 1:50pm CSE 1202
+Wednesdays 12:00pm - 12:50pm CSE 2154 </br>
+Wednesdays 1:00pm - 1:50pm CSE 2154
 
 Welcome to CSE 95: Tutor Training. This course is intended to help you become a more effective CSE tutor. We hope it will also offer you skills that you will find valuable in your professional career in the future. This website will provide you with all of the information you need in CSE 95. 
 
